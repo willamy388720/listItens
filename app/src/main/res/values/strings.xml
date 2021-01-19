@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">trabalho_02</string>
+    <string name="seus_itens">Seus Itens</string>
+    <string name="editar">Editar</string>
+    <string name="add">Add</string>
+    <string name="salvar">Salvar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="title">Title</string>
+    <string name="id">Id</string>
+    <string name="description">Description</string>
+    <string name="resume">Resume</string>
+</resources>
